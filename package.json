@@ -1,0 +1,17 @@
+{
+  "name": "cryptochimera",
+  "version": "1.0.0",
+  "description": "An over-engineered minimal app to play with technology. This doesn't represent a guide on how you should do things. I'm just exploring all the technologies with a minimal project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nrwl/workspace": "^19.8.4",
+    "nx": "20.6.4"
+  },
+  "nx": {}
+}
