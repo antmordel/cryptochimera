@@ -40,7 +40,3 @@ We can leverage their API to generate a `.gitignore` file for our project.
 ```bash
 curl -o .gitignore https://www.toptal.com/developers/gitignore/api/node,vim
 ```
-
-```
-
-```
